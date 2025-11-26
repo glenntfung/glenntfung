@@ -22,4 +22,10 @@ This is Glenn, I am a predoctoral research fellow in quantitative marketing at N
 - 🎓 I have degrees in math, econ, and social sciences and plan to pursue a PhD 
 - 📫 How to reach me: glenntfung [at] gmail [dot] com
 
-[![GitHub Streak](https://github-readme-streak-stats-six-beta-26.vercel.app?user=glenntfung&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats-six-beta-26.vercel.app?user=glenntfung&exclude_days=Sun%2CSat&theme=github-dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats-six-beta-26.vercel.app?user=glenntfung&exclude_days=Sun%2CSat&theme=github-light">
+    <img alt="GitHub Streak" src="https://github-readme-streak-stats-six-beta-26.vercel.app?user=glenntfung&exclude_days=Sun%2CSat&theme=default">
+  </picture>
+</a>
