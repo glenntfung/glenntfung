@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This is Glenn, I am a predoctoral research fellow in quantitative marketing at Northwestern Kellogg. 
+
+- 🔭 I’m currently working on things like machine and causal learning, large models, and statistical modelling to solve business strategy problems
+- 🌱 I love music
+- 🎓 I have degrees in math, econ, and social sciences and plan to pursue a PhD 
+- 📫 How to reach me: glenntfung [at] gmail [dot] com
+
+[![GitHub Streak](https://github-readme-streak-stats-six-beta-26.vercel.app?user=glenntfung&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
