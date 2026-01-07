@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-This is Glenn, I am a predoctoral research fellow in quantitative marketing at Northwestern Kellogg. 
+This is Glenn, I am a predoctoral research fellow in quantitative marketing at [Northwestern Kellogg](https://www.kellogg.northwestern.edu). 
 
-- 🔭 I’m currently working on things like machine and causal learning, large models, and statistical modelling to solve business strategy problems
-- 🌱 I love music
+- 🔭 I’m currently working on things like machine learning, large models, Bayesian computation, and combinatorial optimization
+- 🎶 I love music, movies, video games, great food, and many many other more
+- 💻 I am an open-source contributor
 - 🎓 I have degrees in math, econ, and social sciences and plan to pursue a PhD 
 - 📫 How to reach me: glenntfung [at] gmail [dot] com
